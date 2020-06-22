@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/randomQuoteApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/randomQuoteApp/static/js/main.2524e3ff.chunk.js",
+    "main.js.map": "/randomQuoteApp/static/js/main.2524e3ff.chunk.js.map",
+    "runtime-main.js": "/randomQuoteApp/static/js/runtime-main.72cb5798.js",
+    "runtime-main.js.map": "/randomQuoteApp/static/js/runtime-main.72cb5798.js.map",
+    "static/js/2.3df7e316.chunk.js": "/randomQuoteApp/static/js/2.3df7e316.chunk.js",
+    "static/js/2.3df7e316.chunk.js.map": "/randomQuoteApp/static/js/2.3df7e316.chunk.js.map",
+    "index.html": "/randomQuoteApp/index.html",
+    "precache-manifest.b9398c566aa5eaa22bf865bf17787b3f.js": "/randomQuoteApp/precache-manifest.b9398c566aa5eaa22bf865bf17787b3f.js",
+    "service-worker.js": "/randomQuoteApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/randomQuoteApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3df7e316.chunk.js.LICENSE.txt": "/randomQuoteApp/static/js/2.3df7e316.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/randomQuoteApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72cb5798.js",
+    "static/js/2.3df7e316.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2524e3ff.chunk.js"
+  ]
+}
